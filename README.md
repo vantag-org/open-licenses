@@ -13,3 +13,9 @@ The licenses included in this repository aren't ours, nor should the licenses be
 [Simplified BSD License](./licenses/simplified-bsd.md)    
 [Apache 2 License](./licenses/apache-2.md)        
 [Eclipse Public License](./licenses/epl.md)    
+
+
+
+## Future
+
+The repository is not complete, and future updates will come adding new licenses or fixing grammar. 
