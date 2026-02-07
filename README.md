@@ -1,5 +1,4 @@
 ![l](./assets/1770492721905.png)
-# Open Licenses
 
 This repository contains open source licenses for our repositories. It may be outdated or may not include the licenses you need.
 
